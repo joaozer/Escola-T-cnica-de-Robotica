@@ -1,1 +1,1 @@
-# Escola-T-cnica-de-Robotica
+# Escola técnica de Robótica.
