@@ -2,12 +2,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #71290e; /* Cor de fundo base */
+    background-color: #fdfdfd; /* Cor de fundo base */
 }
 
 header {
-    background-color: #165a05; /* verde */
-    color: #bc1717;
+    background-color: #146dc0; /* azul */
+    color: #ffffff;
     padding: 20px;
     text-align: center;
 }
@@ -32,13 +32,13 @@ main {
 }
 
 section {
-    background-color: #289f00;
+    background-color: #0b9ad3;
     padding: 20px;
     margin-bottom: 20px;
 }
 
 footer {
-    background-color: #5c4426; /* verde */
+    background-color: #000000; /* preto */
     color: #fff;
     padding: 20px;
     text-align: center;
